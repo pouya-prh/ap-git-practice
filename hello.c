@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello world");
+	printf("\033[1;32mhello world\033[0m");
 	return 0;
 }
